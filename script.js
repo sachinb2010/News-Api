@@ -36,8 +36,5 @@ function retrive(e){
             
         });
     })
-   resets.addEventListener('click',()=>{
-       console.log("This is awsome and good");
-      newslist.reset();
-   })
+   
 }
